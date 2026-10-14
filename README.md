@@ -17,8 +17,6 @@ Guarda el script y dale permisos de ejecución (opcional):
 
 bash
 
-
-
 chmod +x cabeceras_server.py
 Uso general
 bash
@@ -78,8 +76,6 @@ Modo 2: server
 Lanza un servidor HTTP local (por defecto en 0.0.0.0:8080) que registra cada petición que recibe y responde con una página HTML simple.
 
 bash
-
-
 
 python3 cabeceras_server.py server [opciones]
 Opciones
