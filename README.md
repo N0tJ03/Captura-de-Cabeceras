@@ -30,8 +30,8 @@ El resto de módulos (`ssl`, `socket`, `http.server`, `argparse`, `json`...) for
 ## Instalación
 
 ```bash
-git clone https://github.com/<tu-usuario>/<tu-repositorio>.git
-cd <tu-repositorio>
+git clone https://github.com/N0tJ03/Captura-de-Cabeceras.git
+cd Captura-de-Cabeceras
 pip install requests
 ```
 
